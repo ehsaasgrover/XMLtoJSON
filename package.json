@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.6.2"
+  },
+  "type": "module"
+}

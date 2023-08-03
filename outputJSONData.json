@@ -1,0 +1,230 @@
+{
+  "PurchaseOrder": {
+    "POHeaderDetails": {
+      "CompanyCode__": {
+        "_text": "1100"
+      },
+      "VendorNumber__": {
+        "_text": "0010002645"
+      },
+      "OrderNumber__": {
+        "_text": "5500000150"
+      },
+      "OrderDate__": {
+        "_text": "2023-06-02"
+      },
+      "Currency__": {
+        "_text": "NZD"
+      },
+      "Buyer__": {
+        "_text": "Alice Buyer"
+      },
+      "ProcurementContact__": {
+        "_text": "Bob Procurement"
+      },
+      "ProcurementContactPhone__": {
+        "_text": "01 234 5678"
+      },
+      "ProcurementContactEmail__": {
+        "_text": "bob.procurement@test.com"
+      },
+      "POCreator__": {
+        "_text": "John Doe"
+      },
+      "HeaderContent__": {},
+      "POPaymentTerms__": {
+        "_text": "0003"
+      },
+      "PODocType__": {
+        "_text": "NA"
+      },
+      "POSupplierRef__": {
+        "_text": "ABC123"
+      },
+      "CompanyPORef__": {
+        "_text": "5500000150"
+      },
+      "Incoterms1__": {
+        "_text": "ABC"
+      },
+      "Incoterms2__": {
+        "_text": "Auckland"
+      },
+      "PlannedFreght__": {},
+      "DocNumber__": {
+        "_text": "0000000000087110"
+      }
+    },
+    "POItemDetails": {
+      "Item": [
+        {
+          "CompanyCode__": {
+            "_text": "1100"
+          },
+          "VendorNumber__": {
+            "_text": "0010002645"
+          },
+          "OrderNumber__": {
+            "_text": "5500000150"
+          },
+          "OrderDate__": {
+            "_text": "2023-06-02"
+          },
+          "ItemNumber__": {
+            "_text": "00010"
+          },
+          "PartNumber__": {},
+          "Material__": {
+            "_text": "000000000000200148"
+          },
+          "EAN__": {},
+          "ItemType__": {
+            "_text": "0"
+          },
+          "Description__": {
+            "_text": "Item 1 description 1"
+          },
+          "Description_2__": {},
+          "GLAccount__": {},
+          "Group__": {
+            "_text": "19300"
+          },
+          "CostCenter__": {},
+          "InternalOrder__": {},
+          "WBSElement__": {},
+          "UnitPrice__": {
+            "_text": "5"
+          },
+          "OrderedAmount__": {
+            "_text": "100"
+          },
+          "UnitOfMeasureCode__": {
+            "_text": "H87"
+          },
+          "OrderedQuantity__": {
+            "_text": "20.000"
+          },
+          "StoreID__": {
+            "_text": "5024"
+          },
+          "Currency__": {
+            "_text": "NZD"
+          },
+          "TaxCode__": {},
+          "ItemRequestedDeliveryDate__": {
+            "_text": "2023-08-11"
+          },
+          "DeletionIndicator__": {
+            "_text": "X"
+          },
+          "ReturnItem__": {
+            "_text": "X"
+          },
+          "ReturnRef__": {},
+          "ReturnRMA__": {
+            "_text": "RMANUMBER001"
+          },
+          "ReturnReason__": {
+            "_text": "104"
+          },
+          "POAcknowledgement__": {},
+          "NoMoreInvoiceExpected__": {},
+          "NoGoodsReceipt__": {}
+        },
+        {
+          "CompanyCode__": {
+            "_text": "1100"
+          },
+          "VendorNumber__": {
+            "_text": "0010002645"
+          },
+          "OrderNumber__": {
+            "_text": "5500000150"
+          },
+          "OrderDate__": {
+            "_text": "2023-06-02"
+          },
+          "ItemNumber__": {
+            "_text": "00020"
+          },
+          "PartNumber__": {},
+          "Material__": {
+            "_text": "000000000000200148"
+          },
+          "EAN__": {},
+          "ItemType__": {
+            "_text": "0"
+          },
+          "Description__": {
+            "_text": "Item 2 description"
+          },
+          "Description_2__": {},
+          "GLAccount__": {},
+          "Group__": {
+            "_text": "19300"
+          },
+          "CostCenter__": {},
+          "InternalOrder__": {},
+          "WBSElement__": {},
+          "UnitPrice__": {
+            "_text": "5"
+          },
+          "OrderedAmount__": {
+            "_text": "50"
+          },
+          "UnitOfMeasureCode__": {
+            "_text": "H87"
+          },
+          "OrderedQuantity__": {
+            "_text": "10.000"
+          },
+          "StoreID__": {
+            "_text": "5024"
+          },
+          "Currency__": {
+            "_text": "NZD"
+          },
+          "TaxCode__": {},
+          "ItemRequestedDeliveryDate__": {
+            "_text": "2023-08-11"
+          },
+          "DeletionIndicator__": {
+            "_text": "X"
+          },
+          "ReturnItem__": {
+            "_text": "X"
+          },
+          "ReturnRef__": {},
+          "ReturnRMA__": {
+            "_text": "RMANUMBER001"
+          },
+          "ReturnReason__": {
+            "_text": "104"
+          },
+          "POAcknowledgement__": {},
+          "NoMoreInvoiceExpected__": {},
+          "NoGoodsReceipt__": {}
+        }
+      ]
+    },
+    "DeliveryAddressDetails": {
+      "ShipToCompany__": {
+        "_text": "FBNZ"
+      },
+      "ShipToSub__": {},
+      "ShipToStreet__": {
+        "_text": "1/80 street Road"
+      },
+      "ShipToCity__": {
+        "_text": "Auckland"
+      },
+      "ShipToZipCode__": {
+        "_text": "1234"
+      },
+      "ShipToRegion__": {},
+      "ShipToCountry__": {
+        "_text": "NZ"
+      }
+    }
+  }
+}
